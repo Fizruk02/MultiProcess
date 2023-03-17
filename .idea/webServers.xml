@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d12cef7a-2ba1-4536-8c0c-29e34be5aac4" name="host2bot">
+        <fileTransfer rootFolder="/var/www/html/bot/TeleChat.bot.host2bot.ru" accessType="SFTP" host="5.181.108.172" port="22" sshConfigId="44a50f16-609d-4786-83e8-61cdaf39545b" sshConfig="root@5.181.108.172:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
